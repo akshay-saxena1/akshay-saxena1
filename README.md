@@ -25,7 +25,8 @@ Currently, I am exploring the basics of programming, GitHub, and digital tools a
 - GitHub (Beginner)  
 - Java
 - Python
-- C++  
+- C++
+- Problem Solving
 
 ---
 
@@ -33,5 +34,3 @@ Currently, I am exploring the basics of programming, GitHub, and digital tools a
 - Email: [akshay.25bce10224@vitbhopal.ac.in]
 
 ---
-
-⭐ *This profile is created as part of my Digital Literacy course (CSE0001) at VIT Bhopal.*
