@@ -105,3 +105,51 @@ Motto    : "Turn ideas into projects, ideas into impact"
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
 </p>
+
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/akshay-saxena1">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=akshay-saxena1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/akshay-saxena1">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-saxena1&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/akshay-saxena1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-saxena1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
+</p>
+
+<br>
+
+### 🧠 Skills Progress
+
+<div align="center">
+
+| Skill | Progress |
+| :--- | :--- |
+| 💻 **Web Development** | `████████░░` **80%** |
+| 🐍 **Python** | `████████░░` **78%** |
+| ☕ **Java / C++** | `███████░░░` **75%** |
+| 📊 **Data Structures & Algorithms** | `██████░░░░` **65%** |
+| 🤖 **AI / Machine Learning** | `██████░░░░` **60%** |
+| ⚛️ **React / Node.js** | `██████░░░░` **55%** |
+| 📈 **Data Science** | `█████░░░░░` **45%** |
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
+</p>
