@@ -18,3 +18,31 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
 </p>
+
+### 👨🏻‍💻 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+
+```text
+
+╭─(akshay⚙️dev)-[~]
+╰─$ cat about_me.txt
+
+
+Name     : Akshay Saxena
+Degree   : B.Tech CSE (Core)
+Focus    : Web Dev, DSA & AI/ML
+Location : Lucknow, India
+Status   : Open to collaborate 🤝
+Motto    : "Turn ideas into projects, ideas into impact"
+
+```
+
+```
+🔭 Currently working on: Training AI models locally (via RTX 4050), solving complex DSA challenges, and full-stack Web Dev!
+🧠 Deep diving into: Natural Language Processing (NLP), Computer Vision (CV), and building interactive 3D webs.
+☁️ Beyond coding: Crushing the Google Cloud Arcade & Skills Boost to earn badges and master cloud infra.
+💬 Ask me about: Python, Java, C++, Groq API, and turning wild ideas into impactful real-world projects!
+⚡ Fun fact: I enjoy turning wild ideas into real-world projects!
+
+```
