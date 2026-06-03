@@ -214,10 +214,11 @@ Motto    : "Turn ideas into projects, ideas into impact"
 </p>
 
 ### 🌐 Connect With Me
-
+ **Always open to collaborating on innovative projects and tech discussions. Feel free to reach out!**
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Waving Hand">
   <br><br>
+ 
   <a href="https://www.linkedin.com/in/akshay-saxena-630417371">
     <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
