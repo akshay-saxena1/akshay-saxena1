@@ -32,6 +32,7 @@ Focus    : Web Dev, DSA & AI/ML
 Location : Lucknow, India
 Status   : Open to collaborate 🤝
 Motto    : "Turn ideas into projects, ideas into impact"
+
 ```
 ```
 🔭 Currently working on: Training AI models locally (via RTX 4050), solving complex DSA challenges,and 
