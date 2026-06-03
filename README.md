@@ -153,3 +153,35 @@ Motto    : "Turn ideas into projects, ideas into impact"
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
 </p>
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+  <a href="https://github.com/akshay-saxena1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-saxena1&bg_color=0d1117&color=7b68ee&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
+</p>
+
+<br>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshay-saxena1/akshay-saxena1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshay-saxena1/akshay-saxena1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akshay-saxena1/akshay-saxena1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
+</p>
