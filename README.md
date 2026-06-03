@@ -185,3 +185,59 @@ Motto    : "Turn ideas into projects, ideas into impact"
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
 </p>
+
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/akshay-saxena1">
+    <img src="https://github-profile-trophy.vercel.app/?username=akshay-saxena1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
+</p>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler&quoteColor=00FFFF&authorColor=FF007F" alt="Dev Quote" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
+</p>
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Waving Hand">
+  <br><br>
+  <a href="https://www.linkedin.com/in/akshay-saxena-630417371">
+    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:akshaysaxena1702@gmail.com">
+    <img src="https://img.shields.io/badge/MAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=50&fontColor=ffffff&animation=fadeIn" alt="Footer Banner" />
+  
+  <br><br>
+  
+   <b><h1>⭐Star my repos if you find them useful!⭐</h1></b> 
+</div>
