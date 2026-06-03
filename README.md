@@ -1,36 +1,9 @@
-# Hi 👋, I'm Akshay Saxena
+### 🐍 Contribution Snake
 
-🎓 First Year B.Tech Student at VIT Bhopal University  
-💻 Branch: Computer Science Engineering(Core) 
-📅 Year: 2025–2029  
-
----
-
-## 🚀 About Me
-I am a first-year engineering student passionate about learning new technologies and building useful projects.  
-Currently, I am exploring the basics of programming, GitHub, and digital tools as part of my academic journey.
-
----
-
-## 🎯 My Learning Goals
-- Build a strong foundation in programming  
-- Learn web development and software development  
-- Contribute to projects on GitHub  
-- Improve problem-solving skills  
-
----
-
-## 🛠️ Skills (Learning Phase)
-- Basic Computer Skills  
-- GitHub (Beginner)  
-- Java
-- Python
-- C++
-- Problem Solving
-
----
-
-## 📫 Connect with Me
-- Email: [akshay.25bce10224@vitbhopal.ac.in]
-
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshay-saxena1/akshay-saxena1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshay-saxena1/akshay-saxena1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akshay-saxena1/akshay-saxena1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
