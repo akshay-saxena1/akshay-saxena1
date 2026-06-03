@@ -44,3 +44,22 @@ Motto    : "Turn ideas into projects, ideas into impact"
 ⚡ Fun fact: I enjoy turning wild ideas into real-world projects!
 
 ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator line">
+</p>
+
+### 🎮 Developer Profile
+
+<img align="right" width="350" height="500" src="hacker.gif" alt="Developer GIF" />
+
+```diff
++ 🎓 Class      : CSE Core Engineering Student
+
++ 💻 Side Quest : Full-Stack Web Developer
+
++ 🤖 Special    : AI & Machine Learning Explorer
+
++ 📊 Activity   : DSA Practice & Open-Source Building
+
++ 🌠 Status     : Always Learning, Always Growing
+```
